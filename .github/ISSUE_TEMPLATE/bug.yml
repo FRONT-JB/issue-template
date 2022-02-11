@@ -1,0 +1,13 @@
+name: "✋ BUG"
+description: "발생한 버그를 상세하게 기록해주세요."
+labels:
+  - ":hand: BUG"
+
+body:
+  - id: content
+    type: textarea
+    validations:
+      required: true
+    attributes:
+      label: "✋ BUG"
+      description: 이곳에 질문이나 건의사항을 남겨주세요!
