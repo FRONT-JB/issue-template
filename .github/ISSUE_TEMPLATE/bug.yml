@@ -1,8 +1,7 @@
 name: "👻 Bug"
 description: "발생한 문제를 남겨주세요."
 title: "[Bug]: "
-labels:
-  - "👻 Bug"
+labels: ["bug"]
 
 body:
   - type: dropdown
