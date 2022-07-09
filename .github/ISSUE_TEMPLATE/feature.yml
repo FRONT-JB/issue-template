@@ -1,24 +1,18 @@
+---
 name: "🔥 Feature"
 description: "진행할 작업을 상세하게 기록해주세요."
 title: "[Feature]: "
 labels: ["enhancement"]
+assignees: ""
+---
 
-body:
-  - type: dropdown
-    id: field
-    attributes:
-      label: Select Field
-      description: 어디에 연관된 기능인가요?
-      options:
-        - Main Field (Default)
-        - Navigation Field
-        - Support Field
-    validations:
-      required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: 무슨 작업을 진행하나요?
-      description: 어떤 기능을 작업하는지 말해주세요!
-    validations:
-      required: true
+<!-- Do not leave any section empty. -->
+
+# 1. Executive Summary
+<!--
+    Executive Summary should contain about up to 3 paragraphs to clarify what
+    happened. Bear in mind that this is targeted for Business Users as well,
+    meaning technical details should be kept minimal.
+
+    This is a REQUIRED field.
+-->
