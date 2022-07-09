@@ -1,7 +1,7 @@
 ---
 
 name: "🔥 Feature"
-about: ""
+about: "Feature"
 description: "진행할 작업을 상세하게 기록해주세요."
 title: "[Feature]: "
 labels: ["enhancement"]
