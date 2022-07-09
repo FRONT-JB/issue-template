@@ -1,4 +1,5 @@
 ---
+
 name: "🔥 Feature"
 description: "진행할 작업을 상세하게 기록해주세요."
 title: "[Feature]: "
@@ -17,3 +18,7 @@ assignees: ""
 
     This is a REQUIRED field.
 -->
+
+<!--EXAMPLE-->
+Redacted
+<!--EXAMPLE END-->
